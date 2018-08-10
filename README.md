@@ -1,2 +1,0 @@
-# script
-enviro
